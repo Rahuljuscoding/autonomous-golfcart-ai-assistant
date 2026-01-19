@@ -12,7 +12,7 @@ The campus route below represents the physical world model used by the system.
 Stop coordinates were derived from real campus locations and converted into a relative coordinate frame with the Main Gate as the origin.
 
 
-<p align="center">
+<p align="left">
   <img src="campus-route.png" alt="Campus Route" width="600">
 </p>
 
