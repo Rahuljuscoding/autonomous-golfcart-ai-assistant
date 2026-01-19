@@ -1,0 +1,8 @@
+numpy>=1.24
+requests
+pyttsx3
+faster-whisper
+sounddevice
+scipy
+numpy
+keyboard

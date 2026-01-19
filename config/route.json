@@ -1,0 +1,12 @@
+{
+  "stops": [
+    { "id": 0, "name": "Main Gate", "x": 0, "y": 0 },
+    { "id": 1, "name": "Crossroads", "x": 68, "y": 167 },
+    { "id": 2, "name": "A Side Lower", "x": 142, "y": 326 },
+    { "id": 3, "name": "A Side Upper", "x": 272, "y": 482 },
+    { "id": 4, "name": "B Dome", "x": 431, "y": 606 },
+    { "id": 5, "name": "C Side Upper", "x": 415, "y": 510 },
+    { "id": 6, "name": "C Mess", "x": 270, "y": 347 }
+  ],
+  "loop": [0, 1, 2, 3, 4, 5, 6, 1, 0]
+}
